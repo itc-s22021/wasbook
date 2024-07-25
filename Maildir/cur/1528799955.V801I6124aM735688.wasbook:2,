@@ -1,0 +1,38 @@
+Return-Path: <wasbook@example.jp>
+X-Original-To: wasbook@example.jp
+Delivered-To: wasbook@example.jp
+Received: by example.jp (Postfix, from userid 33)
+	id 82A814382C; Tue, 12 Jun 2018 19:39:15 +0900 (JST)
+To: wasbook@example.jp
+Subject: =?UTF-8?Q?=E4=BD=93=E7=B3=BB=E7=9A=84=E3=81=AB=E5=AD=A6=E3=81=B6?=  =?UTF-8?Q?=E5=AE=89=E5=85=A8=E3=81=AAWeb=E3=82=A2=E3=83=97=E3=83=AA?=  =?UTF-8?Q?=E3=82=B1=E3=83=BC=E3=82=B7=E3=83=A7=E3=83=B3=E3=81=AE=E4=BD=9C?=  =?UTF-8?Q?=E3=82=8A=E6=96=B9_=E7=AC=AC2=E7=89=88=E3=81=AB=E3=82=88?=  =?UTF-8?Q?=E3=81=86=E3=81=93=E3=81=9D?=
+X-PHP-Originating-Script: 0:rcube.php
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+Date: Tue, 12 Jun 2018 19:39:15 +0900
+From: wasbook <wasbook@example.jp>
+Message-ID: <4790fb8a3ab3311f3db5dc135f45db88@example.jp>
+X-Sender: wasbook@example.jp
+User-Agent: Roundcube Webmail/1.2.3
+
+読者各位
+
+こんにちは。筆者の徳丸です。
+このたびは「体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 ～脆弱
+性が生まれる原理と対策の実践～」をご購入いただきありがとうございます。
+
+このメールをお読みいただいているということは、仮想マシンのセットアップが
+順調に進んでいることを意味します。本書の実習環境にようこそ。
+
+以下のURLから、脆弱性サンプルのメニューが表示されますので、書籍を読みな
+がら色々試してみてください。
+
+http://example.jp/
+
+この環境を活用して、脆弱性と安全なアプリケーションの作り方に対する理解を
+深めていただければ幸いです。
+ありがとうございました。
+
+徳丸 浩
+
