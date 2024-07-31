@@ -150,3 +150,52 @@ git commit -m "4-5まで"
 git push origin main 
 exit
 sudo shutdown -h now
+ls
+vi 44-004.php
+git add .
+git commit -m 'chap5'
+git push origin main 
+vi 46-001.php
+npm run dev
+vi 46-002.php
+vi 46-900.cgi
+46-010.php
+vi 46-010.php
+vi 46-011.php
+46-012.php
+vi 46-012.php
+vi 46-020.php
+vi 46-021.php
+vi 46-022.php
+vi 46-011a.php
+vi 46-015.php
+vi 46-016.php
+git add .
+git commit -m '4-6終わり'
+git push origin main 
+git remote -v
+git push origin main 
+ls- al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "s22021@std.it-college.ac.jp"
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+git remote -v
+git remote set-url origin git@github.com:username/repository.git
+git push origin main
+git log
+ls
+git remote set-url origin git@github.com:username/repository.git
+cat ~/.ssh/id_rsa.pub
+git push origin main 
+git remote -v
+git add .
+git push origin main 
+ls -al ~/.ssh
+git commit -m 'chap4-6まで'
+git push origin main 
+ls
+git push origin main 
+sudo shutdown -h now
