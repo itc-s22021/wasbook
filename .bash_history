@@ -199,3 +199,16 @@ git push origin main
 ls
 git push origin main 
 sudo shutdown -h now
+git push origin main 
+git status
+ssh-add -K ~/.ssh/id_rsa
+git remote -v
+git remote set-url origin https://github.com/itc-s22021/wasbook.git
+git push origin main 
+git credential-cache exit
+git push origin main 
+git remote -v
+git add .
+git commit -m '確認'
+git push origin main 
+sudo shutdown -h now
