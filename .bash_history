@@ -212,3 +212,18 @@ git add .
 git commit -m '確認'
 git push origin main 
 sudo shutdown -h now
+ls
+vi 47-001.php
+vi 47-002.php
+vi 47-003.php
+vi 47-900.php
+vi 47-020.cgi
+vi 47-021.cgi
+vi 47-030.php
+vi 47-900.php
+vi set_non_secure_cookie.php
+git add .
+git commit -m '4の7までできた'
+git push origin main 
+git rm --cached .ssh/id_rsa
+sudo shutdown -h now
